@@ -1,8 +1,8 @@
 # Car Sales Analytics Dashboard (AutoInsight)
 **Course:** Year 3, Term 1 — Project Management  
 **Team 10 (DS Group 1):**
-* **Chhoun Vannak Sok Panha** — Scrum Master
-* **Samolty Lundy** — Lead Developer
+* **Chhoun Vannak Sok Panha** —  Developer
+* **Samolty Lundy** — Scrum MasterLead
 * **Por Menghong** — Product Owner
 
 ---
